@@ -1,0 +1,6 @@
+Fusion (Connected Textures)
+Fusion
+1.0.0
+LYIVX
+Adds Fusion API
+Made with MCreator plugin builder by NerdyPuzzle
